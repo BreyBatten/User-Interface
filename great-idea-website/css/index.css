@@ -164,14 +164,14 @@ section.top {
 }
 
 section.bottom {
-	margin-left: 270px;
+	margin-left: 50px;
 	display: block;
 
 }
 
 .services,.product,.vision {
-	width: 28%; 
-	height: 150px;
+	width: 33%; 
+	height: 200px;
 	display: inline-block;
 }
 
